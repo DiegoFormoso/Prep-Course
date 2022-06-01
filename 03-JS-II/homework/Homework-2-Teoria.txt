@@ -1,0 +1,18 @@
+for
+
+. Es una expresion de bucle, la cual tiene las siguientes caracteristicas.
+  for (declaracion de variable que se utiliza en el bucle, condicion, incremento de variable) {}.
+  El bucle se procesa hasta que la condicion sea falsa (false).
+
+
+&&, ||, !
+
+. && : es un operador logico "AND", evalua excluyentemente ambas condiciones logicas.
+       si ambas son verdadeeras devuelve true, si una de las dos condiciones no es 
+       verdadera es false.
+
+. || : es un operador logico "OR", se evalua si una de las dos condiciones es verdadera.
+       devuelve verdadero cuando encuentra la primer condicion que devuelve true.
+
+. ! : es el operador logico "NOT", es el inverso al = "IGUAL". Por ej. 1 !== 2 es verdadero.
+      Si uno es distinto a 2 el resultado es true. a a
