@@ -1,0 +1,17 @@
+Variables 
+. Reserva un lugar en memoria para luego utilizarlo por medio de su nombre.
+
+Strings 
+. Es un conjunto de caracteres, que se debe utilizar entre comillas o apostrofes
+
+Funciones (argumentos, return)
+. Las funciones se utilizan para generar bloques que devuelven o no algun resultado.
+. Los argumentos, son los parametros que se le deben pasar a la funcion para que ejecuten el codigo
+. returm es una palabra reservada la cual devuelve el resultado del proceso de la funcion.
+
+Declaraciones if
+. If se utiliza es condicional que se utiliza para bifurcar el codigo.
+
+Valores booleanos (true, false)
+. Los provienen de la logica de Boole, y basicamente se utiliza para casi todo, pueden ser 1 0 0 (binario),
+  activo o inactivo, true o false.
