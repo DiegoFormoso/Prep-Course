@@ -1,0 +1,13 @@
+
+prototype
+
+. Es una forma de crear un metodo unico para ser utilizado por los objetos que 
+  tienen definido dicho metodo. Esto sirve para ahorrar memoria, y no recrear
+  todas las veces que sea necesario ese metodo.
+
+
+Constructors (de Clases)
+
+. Los constructor se utilizan para inicializar un objeto y reservar la memoria
+  para el mismo. En el mismo se define las propiedades y metodos que va a 
+  utilizar el objeto.
