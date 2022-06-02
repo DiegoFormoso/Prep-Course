@@ -1,0 +1,35 @@
+
+Objetos
+
+. Los objetos son contenedores de datos al igual que los arrays.Mientras que los arrays contienen
+  elementos relacionados unos con otros, los objetos contienen mucha informacion de una sola cosa.
+. Los objetos se los instacian utilizando llaves {}.
+. const objeto = {}
+. Pueden tener propiedades y metodos y se los identifica por clave:valor  y las claves son unicas,
+  o sea no puede existir un objeto con 2 claves iguales. Pueden tener el mismo valor pero no el
+  mismo nombre de clave.
+
+Propiedes
+
+. Las propiedades son variables asignadas al objeto. Es la asociacion de una clave:valor.
+. Un objeto puede tener muchas propiedades. Esta propiedad puede ser del tipo array, string,
+  boolean, integer y tambien otro objeto. 
+
+Metodos
+
+. Es una funcion que asignada al objeto, que se ejecuta llamando al objeto.metodo.
+. Es un proceso que ejecuta el objeto a traves del nombre del metodo.
+  ej. usuario.saludar();
+
+Bucle for…in
+
+. Se utiliza para interactuar entre las propiedades y metodos del objeto.
+
+Notación de puntos vs notación de corchetes
+
+. La diferencia entre ambos es de solo de sintaxis, se pueden utilizar ambas.
+. Utilizando corchetes y al escribir el nombre entre comillas se pueden generar
+  errores de tipeo.
+
+
+
