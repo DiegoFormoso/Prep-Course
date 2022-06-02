@@ -1,0 +1,8 @@
+
+Funciones Callback
+
+. Las funciones callbacks, son las funciones que se pasan como argumentos
+  a otras funciones. Entonces podemos pasar como argumento de una funcion,
+  variables, objetos y funciones. En realidad son todos objetos.
+
+. La convencion que es un callback es cb.
