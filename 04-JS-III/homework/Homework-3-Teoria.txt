@@ -1,0 +1,9 @@
+array
+
+. Un array es una matriz contenedora de conunto de datos. La cual puede tener distintos tipos de datos,
+  que pueden ser String, Boolean, Integer.
+  Tiene la siguiente forma p = [1,2,3,4].
+  Y si quiero obtener el numero 3 del array se lo obtiene mediante el subindice p[2].
+  La primer posicion de un array es 0 (cero) y el cantidad de elementos que tiene se 
+  los obtiene mediante el metodo length. array.length.
+
